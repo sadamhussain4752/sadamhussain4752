@@ -1,33 +1,67 @@
-Here’s your updated version with your name:  
+Here’s your updated version with your requested changes:  
 
 ---
 
-# 💻 Sadam Hussain — Software Developer | Problem Solver | Tech Enthusiast  
+# 💻 **Sadam Hussain** — Experienced Software Developer | React Native | React.js | Node.js | Full Stack Enthusiast  
 
-Hey there! 👋 I'm **Sadam Hussain**, a software developer passionate about creating intuitive and scalable digital experiences. I thrive on solving complex problems and constantly pushing the boundaries of what technology can achieve.  
-
----
-
-## 🛠️ Tech Stack  
-- **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS  
-- **Backend:** Node.js, Express.js, Python, Flask, Django  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Tools & Platforms:** AWS, Docker, Git, CI/CD  
-- **Other Interests:** Exploring scalable architectures, experimenting with new frameworks, and optimizing user experiences.  
+Hey there! 👋 I'm **Sadam Hussain**, a software developer passionate about building high-performance, scalable, and user-friendly applications. I love solving complex problems and working with cutting-edge technologies to deliver impactful digital solutions.  
 
 ---
 
-## 🚀 What I’m Up To  
-- **Current Focus:** Building scalable and highly available web applications.  
-- **Learning:** Sharpening problem-solving skills through LeetCode challenges in JavaScript and exploring advanced frontend optimization techniques.  
-- **Projects:** Always brainstorming and building something exciting!  
+## 🛠️ **Tech Stack & Expertise**  
+
+### **Frontend Development**  
+- **React.js, React Native, Flutter** (Cross-platform & web development)  
+- **HTML, CSS** (Responsive & modern web design)  
+- **JavaScript, TypeScript** (Scalable & maintainable code)  
+- **Tailwind CSS, Bootstrap, Material-UI** (Modern UI libraries)  
+
+### **Backend Development**  
+- **Node.js, Nest.js** (Server-side development & architecture)  
+- **GraphQL** (API development, queries, and mutations)  
+- **Socket.io** (Real-time communication)  
+- **Microservices Architecture** (Scalable system design)  
+
+### **Databases & Storage**  
+- **MySQL, MongoDB** (Relational & NoSQL databases, aggregation & indexing)  
+- **Firebase** (Realtime database, authentication, cloud functions)  
+- **Redis** (Caching & in-memory data store)  
+- **Elasticsearch** (Search & analytics engine)  
+
+### **Cloud & DevOps**  
+- **AWS** (EC2, S3, Lambda, RDS)  
+- **GCP** (Cloud Run, Firestore, Google Cloud Services)  
+- **Docker, Kubernetes** (Containerization & orchestration)  
+- **Serverless Framework** (Deploying serverless applications)  
+- **GitLab, CI/CD Pipelines** (Version control & automated deployments)  
+
+### **Other Skills & Tools**  
+- **Stripe, PayPal, Apple Pay** (Payment gateway integration)  
+- **Postman, Swagger** (API documentation & testing)  
+- **Nginx, Apache** (Web server configuration)  
+- **React Query, Zustand, Redux** (State management)  
+- **WordPress, Shopify** (Custom themes, plugins & e-commerce customization)  
+- **Third-party API Integrations** (Google Maps, Twilio, SendGrid)  
 
 ---
 
-## 📫 Connect with Me  
-- [Bento.me](https://bento.me/sadcodes)  
-- [LinkedIn](https://linkedin.com/in/sadam-hussain)  
-- [Portfolio](https://sad.codes)  
+## 🚀 **What I’m Up To**  
+- **Current Focus:** Building scalable and highly available web and mobile applications.  
+- **Learning:** Improving cloud-native development skills and working on advanced state management in React.  
+- **Projects:** Always brainstorming and working on innovative ideas.  
+
+---
+
+## 📫 **Connect with Me**  
+Here’s the updated section with your correct links:
+
+---
+
+## 📫 **Connect with Me**  
+- [LinkedIn](https://www.linkedin.com/in/sadam-hussain-dev/)  
+- [Portfolio](https://sadam-portfolio.web.app/)  
 - [Leetcode](https://leetcode.com/u/sadam-hussain/)  
 
-Let's collaborate and build something amazing! 🚀
+---
+
+Let’s build something amazing together! 🚀  
