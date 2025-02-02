@@ -1,5 +1,3 @@
-Here’s your updated version with your requested changes:  
-
 ---
 
 # 💻 **Sadam Hussain** — Experienced Software Developer | React Native | React.js | Node.js | Full Stack Enthusiast  
