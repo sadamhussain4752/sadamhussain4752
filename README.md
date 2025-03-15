@@ -9,7 +9,7 @@ Hey there! 👋 I'm **Sadam Hussain**, a software developer passionate about bui
 ## 🛠️ **Tech Stack & Expertise**  
 
 ### **Frontend Development**  
-- **React.js, React Native, Flutter** (Cross-platform & web development)  
+- **React.js, React Native, Flutter** Cross-platform (web development & Mobile development)  
 - **HTML, CSS** (Responsive & modern web design)  
 - **JavaScript, TypeScript** (Scalable & maintainable code)  
 - **Tailwind CSS, Bootstrap, Material-UI** (Modern UI libraries)  
